@@ -1,10 +1,10 @@
 package packets
 
 import (
-	"github.com/anilmisirlioglu/f1-telemetry-go/pkg/env/game"
-	penalty "github.com/anilmisirlioglu/f1-telemetry-go/pkg/env/ruleset"
-	"github.com/anilmisirlioglu/f1-telemetry-go/pkg/env/session"
-	"github.com/anilmisirlioglu/f1-telemetry-go/pkg/env/track"
+	"github.com/ewk-elwa/telemetry-go/pkg/env/game"
+	penalty "github.com/ewk-elwa/telemetry-go/pkg/env/ruleset"
+	"github.com/ewk-elwa/telemetry-go/pkg/env/session"
+	"github.com/ewk-elwa/telemetry-go/pkg/env/track"
 )
 
 // The session packet includes details about the current session in progress.
